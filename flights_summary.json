@@ -1,0 +1,56 @@
+{"ORIGIN_COUNTRY_NAME":"Romania","DEST_COUNTRY_NAME":"United States","count":15}
+{"ORIGIN_COUNTRY_NAME":"croatia","DEST_COUNTRY_NAME":"United States","count":"1"}
+{"ORIGIN_COUNTRY_NAME":"Ireland","DEST_COUNTRY_NAME":"United States","count":344,"extra":"legacy"}
+{"ORIGIN_COUNTRY_NAME":null,"DEST_COUNTRY_NAME":"United States","count":62}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"Egypt","count":-15}
+{"ORIGIN_COUNTRY_NAME":"India","DEST_COUNTRY_NAME":"United States","count":"sixty-two"}
+{"ORIGIN_COUNTRY_NAME":"Singapore","DEST_COUNTRY_NAME":"United States","count":1}
+{"ORIGIN_COUNTRY_NAME":"Grenada","count":62}
+THIS_IS_NOT_JSON
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"Costa Rica","count":588}
+{"route":{"from":"United States","to":"Senegal"},"count":40}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"Moldova","count":null}
+{"ORIGIN_COUNTRY_NAME":"Sint Maarten","DEST_COUNTRY_NAME":"United States","count":325}
+{"ORIGIN_COUNTRY_NAME":"Marshall Islands","DEST_COUNTRY_NAME":"United States","count":"39"}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"","count":64}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"Malta","count":1}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"Anguilla","count":0}
+{"ORIGIN_COUNTRY_NAME":"Paraguay","DEST_COUNTRY_NAME":"United States","count":6,"note":"estimated"}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"Algeria"}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"Turks and Caicos Islands","count":230}
+{"ORIGIN_COUNTRY_NAME":"Gibraltar","DEST_COUNTRY_NAME":"United States","count":1}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"Italy","count":382}
+{"ORIGIN_COUNTRY_NAME":"Russia","DEST_COUNTRY_NAME":"United States","count":161}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"Pakistan","count":"12"}
+{"ORIGIN_COUNTRY_NAME":"Netherlands","DEST_COUNTRY_NAME":"United States","count":660}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"Iceland","count":181}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"Marshall Islands","count":42}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"Luxembourg","count":155}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"Honduras","count":362}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"The Bahamas","count":955}
+{"ORIGIN_COUNTRY_NAME":"Senegal","DEST_COUNTRY_NAME":"United States","count":42}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"El Salvador","count":561}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"Samoa","count":"twenty-five"}
+{"ORIGIN_COUNTRY_NAME":"Angola","DEST_COUNTRY_NAME":"United States","count":13}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"Switzerland","count":294}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"Sint Maarten","count":325}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"Hong Kong","count":332}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"United States","count":370002}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"United States","count":-370002}
+{"ORIGIN_COUNTRY_NAME":"Mexico","DEST_COUNTRY_NAME":"United States","count":7140}
+{"ORIGIN_COUNTRY_NAME":"United States","DEST_COUNTRY_NAME":"Mexico","count":"7140"}
+{"ORIGIN_COUNTRY_NAME":"France","DEST_COUNTRY_NAME":"United States","count":952}
+{"ORIGIN_COUNTRY_NAME":"France","DEST_COUNTRY_NAME":"United States","count":null}
+{"ORIGIN_COUNTRY_NAME":"Germany","DEST_COUNTRY_NAME":"United States","count":1336}
+{"ORIGIN_COUNTRY_NAME":"Germany","DEST_COUNTRY_NAME":"United States","count":"one thousand"}
+{"ORIGIN_COUNTRY_NAME":"Japan","DEST_COUNTRY_NAME":"United States","count":1496}
+{"ORIGIN_COUNTRY_NAME":"Japan","DEST_COUNTRY_NAME":"United States","count":1496,"schema_version":2}
+{"ORIGIN_COUNTRY_NAME":"Canada","DEST_COUNTRY_NAME":"United States","count":8483}
+{"ORIGIN_COUNTRY_NAME":"Canada","DEST_COUNTRY_NAME":"United States","count":8483,"source":"manual"}
+{"ORIGIN_COUNTRY_NAME":"Canada","DEST_COUNTRY_NAME":"United States"}
+{"ORIGIN_COUNTRY_NAME":"Italy","DEST_COUNTRY_NAME":"United States","count":438
+BROKEN_JSON_LINE
+{"ORIGIN_COUNTRY_NAME":"Brazil","DEST_COUNTRY_NAME":"United States","count":619}
+{"ORIGIN_COUNTRY_NAME":"Brazil","DEST_COUNTRY_NAME":"United States","count":"619 "}
+{"ORIGIN_COUNTRY_NAME":"United Kingdom","DEST_COUNTRY_NAME":"United States","count":1970}
+{"ORIGIN_COUNTRY_NAME":"United Kingdom","DEST_COUNTRY_NAME":"United States","count":-1970}
